@@ -1,0 +1,1 @@
+D盘下新建input.xls文件，把统计信息按日期整理进去，双击Atimelogger即可
